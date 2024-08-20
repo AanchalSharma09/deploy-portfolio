@@ -47,7 +47,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information. It is used for showing the profile of a candidate and get more information about them. Here candidate provide the description of there project and also provide link of it. ",
     technologies: ["HTML", "CSS", "Javascript", "React", "Tailwind", "Vite"],
-    link:`https://aanchalsharma09.github.io/deploy-portfolio/`,
+    link:`http://aanchalsharma09.github.io/deploy-portfolio/`,
   },
   {
     title: "Tourism Website",
